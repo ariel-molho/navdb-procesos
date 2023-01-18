@@ -1,0 +1,132 @@
+{
+  "procesos": [
+    {
+      "id": 0,
+      "_id": {
+        "$oid": "5f319267d9885c27c409236b"
+      },
+      "Nombre": "fb_i24",
+      "ExceptionMessage": "",
+      "ProcesoStatus": 2,
+      "CantidadProcesarTotal": 374080,
+      "Campania": {
+        "Identificador": "5cb61e1176194f058c6fc370",
+        "Nombre": "I24_Sale_FB_All_Homelisting",
+        "RelacionXml": {
+          "Pais": {
+            "Nombre": "Mexico",
+            "Abrev": "MX"
+          }
+        }
+      },
+      "CampaniaId": "5cb61e1176194f058c6fc370",
+      "Started": {
+        "$date": {
+          "$numberLong": "1597084263495"
+        }
+      },
+      "Finished": {
+        "$date": {
+          "$numberLong": "1597084452144"
+        }
+      }
+    },
+    {
+      "id": 1,
+      "_id": {
+        "$oid": "5f3192acd9885c27c409236f"
+      },
+      "Nombre": "i24rtb",
+      "ExceptionMessage": "",
+      "ProcesoStatus": 2,
+      "CantidadProcesarTotal": 508097,
+      "Campania": {
+        "Identificador": "5c87c94ab277c902fc041204",
+        "Nombre": "I24-RTB",
+        "RelacionXml": {
+          "Pais": {
+            "Nombre": "Mexico",
+            "Abrev": "MX"
+          }
+        }
+      },
+      "CampaniaId": "5c87c94ab277c902fc041204",
+      "Started": {
+        "$date": {
+          "$numberLong": "1597084452145"
+        }
+      },
+      "Finished": {
+        "$date": {
+          "$numberLong": "1597084740902"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "_id": {
+        "$oid": "5f319317d9885c27c4092375"
+      },
+      "Nombre": "Campania_Smartly_Jumbo_ProcessScheduled",
+      "ExceptionMessage": "",
+      "ProcesoStatus": 2,
+      "CantidadProcesarTotal": 99,
+      "Campania": {
+        "Identificador": "5edfb1989bba5f0b6c8f7377",
+        "Nombre": "Smartly_Jumbo",
+        "RelacionXml": {
+          "Identificador": "5cf167f998a4110d2c8bc763",
+          "Nombre": "Smartly_Jumbo",
+          "Pais": {
+            "Nombre": "Brasil",
+            "Abrev": "BR"
+          }
+        }
+      },
+      "CampaniaId": "5edfb1989bba5f0b6c8f7377",
+      "Started": {
+        "$date": {
+          "$numberLong": "1597084439561"
+        }
+      },
+      "Finished": {
+        "$date": {
+          "$numberLong": "1597084480563"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "_id": {
+        "$oid": "5f319335d9885c27c4092379"
+      },
+      "Nombre": "IW_Faceook_DPA",
+      "ExceptionMessage": "",
+      "ProcesoStatus": 2,
+      "CantidadProcesarTotal": 3852763,
+      "Campania": {
+        "Identificador": "5ceda11fc669f10294170e67",
+        "Nombre": "Facebook_Product_Listing_Verified_BR_IW",
+        "RelacionXml": {
+          "Identificador": "5cec9be0c1b25317c06a45df",
+          "Nombre": "Facebook Product Listing Verified BR",
+          "Pais": {
+            "Nombre": "Brasil",
+            "Abrev": "BR"
+          }
+        }
+      },
+      "CampaniaId": "5ceda11fc669f10294170e67",
+      "Started": {
+        "$date": {
+          "$numberLong": "1597084740903"
+        }
+      },
+      "Finished": {
+        "$date": {
+          "$numberLong": "1597087983388"
+        }
+      }
+    }
+  ]
+}
