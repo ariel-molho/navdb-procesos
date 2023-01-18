@@ -104,7 +104,7 @@
         "$oid": "5f319335d9885c27c4092379"
       },
       "Nombre": "IW_Faceook_DPA",
-      "ExceptionMessage": "System.IO.IOException (PSOS): The process cannot access the file 'C:\inetpub\AspNetCoreWebApps\app\GeneratedXmls\Novos-RTB.xml.98.tmp' because it is being used by another process.",
+      "ExceptionMessage": "System.IO.IOException (PSOS): The process cannot access the file '(server path)' because it is being used by another process.",
       "ProcesoStatus": 2,
       "CantidadProcesarTotal": 3852763,
       "Campania": {
