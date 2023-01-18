@@ -16,7 +16,8 @@
           "Pais": {
             "Nombre": "Mexico",
             "Abrev": "MX"
-          }
+          },
+          "ProveedorId": "5c4f10320d40870a50f67f13"
         }
       },
       "CampaniaId": "5cb61e1176194f058c6fc370",
@@ -47,7 +48,8 @@
           "Pais": {
             "Nombre": "Mexico",
             "Abrev": "MX"
-          }
+          },
+          "ProveedorId": "5c4f650f6f88ce1270c7e532"
         }
       },
       "CampaniaId": "5c87c94ab277c902fc041204",
@@ -80,7 +82,8 @@
           "Pais": {
             "Nombre": "Brasil",
             "Abrev": "BR"
-          }
+          },
+          "ProveedorId": "5cf166d898a4110d2c8bc741"
         }
       },
       "CampaniaId": "5edfb1989bba5f0b6c8f7377",
@@ -113,7 +116,8 @@
           "Pais": {
             "Nombre": "Brasil",
             "Abrev": "BR"
-          }
+          },
+          "ProveedorId": "5cec9b19c1b25317c06a45d1"
         }
       },
       "CampaniaId": "5ceda11fc669f10294170e67",
